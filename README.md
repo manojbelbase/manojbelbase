@@ -34,12 +34,6 @@
 </p>
 </div>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=manojbelbase" alt="manojbelbase" style="margin-top: 20px; margin-bottom: 20px;" />
-  </a>
-</p>
-
 <div align="center">
 <h2 align="center">Languages & Tools</h2>
 <br/>
