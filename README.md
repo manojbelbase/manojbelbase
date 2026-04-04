@@ -29,7 +29,7 @@
 <a href="https://linkedin.com/in/manojbelbasay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manojbelbasay" height="30" width="40" /></a>
 <a href="https://fb.com/manojbelbasay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="manojbelbasay" height="30" width="40" /></a>
 <a href="https://instagram.com/manojbelbasay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="manojbelbasay" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/manojbelbasay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="manojbelbasay" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@manojbelbasay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="manojbelbasay" height="30" width="40" /></a>
 </p>
 </div>
 
