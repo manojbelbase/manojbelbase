@@ -5,10 +5,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Namaste+🙏;+I'm+Manoj+Belbase!;" />
 </h1>
 
-<h3 align="center">A passionate Web developer from Nepal NP</h3>
-
-  <img align="right" alt="coding" width="400px" style="margin-left: 20" src="https://miro.medium.com/v2/resize:fit:1358/1*yw0TnheAGN-LPneDaTlaxw.gif" />
-
 <p align="left">
     
 - 🌱 I’m currently learning **Backend**
