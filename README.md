@@ -23,9 +23,9 @@
 
 
 <div align="center">
-<h2 align="center">Languages & Tools</h2>
-<br/>
-<div align="center">
+<h2 align="start">Languages & Tools</h2>
+
+<div align="start">
     <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,figma,tailwind,git" />
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,firebase,mongodb,c,java,nextjs,mysql" /><br>
 </div>
@@ -33,6 +33,5 @@
 
 [![wakatime](https://wakatime.com/badge/user/f244d7e3-bbbe-463d-97ea-5edb8aec7b95.svg)](https://wakatime.com/@f244d7e3-bbbe-463d-97ea-5edb8aec7b95)
 
-# 📊 GitHub Stats
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=manojbelbase&theme=dark&hide_border=false)<br/>
