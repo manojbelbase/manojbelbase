@@ -27,6 +27,4 @@
 <br clear="both">
 
 [![wakatime](https://wakatime.com/badge/user/f244d7e3-bbbe-463d-97ea-5edb8aec7b95.svg)](https://wakatime.com/@f244d7e3-bbbe-463d-97ea-5edb8aec7b95)
-
-
 ![](https://github-readme-streak-stats.herokuapp.com/?user=manojbelbase&theme=dark&hide_border=false)<br/>
