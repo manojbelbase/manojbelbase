@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Namaste+%F0%9F%99%8F+I'm+Manoj+Belbase!;Frontend+%26+Aspiring+Full-Stack+Developer;Building+with+React+%26+Next.js" alt="Typing SVG" />
+  <h1>Namaste 🙏, I'm Manoj Belbase</h1>
+  <p><strong>Frontend &amp; Aspiring Full-Stack Developer</strong> • React &amp; Next.js</p>
 </div>
 
 <p align="center">
