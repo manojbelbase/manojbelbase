@@ -30,9 +30,12 @@ I'm a web developer passionate about crafting fast, accessible, and responsive w
 ### ⚡ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,figma,tailwind,git" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,javascript,nodejs,nestjs" alt="Tech Stack" />
   <br />
-  <img src="https://skillicons.dev/icons?i=nodejs,javascript,firebase,mongodb,c,java,nextjs,mysql" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql,c,java,git,github,vscode,figma" alt="Tech Stack" />
+  <br /><br />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger" />
+  <img src="https://img.shields.io/badge/OpenAPI_Codegen-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white" alt="OpenAPI Codegen" />
 </div>
 
 ---
