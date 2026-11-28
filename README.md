@@ -12,7 +12,7 @@
   <a href="https://wakatime.com/@f244d7e3-bbbe-463d-97ea-5edb8aec7b95">
     <img src="https://wakatime.com/badge/user/f244d7e3-bbbe-463d-97ea-5edb8aec7b95.svg?style=for-the-badge" alt="WakaTime" />
   </a>
-  <img src="https://visitcount.itsvg.in/api?id=manojbelbase&icon=0&color=0" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=manojbelbase&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
@@ -26,26 +26,12 @@ Hi, I'm **Manoj Belbase** — a web developer focused on building clean, respons
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Languages & Tools
 
 <div align="center">
-
-**Frontend**
-<br />
-<img src="https://skillicons.dev/icons?i=react,nextjs,javascript,html,css,tailwind" alt="Frontend Skills" />
-
-<br /><br />
-
-**Backend & Databases**
-<br />
-<img src="https://skillicons.dev/icons?i=nodejs,firebase,mongodb,mysql" alt="Backend and Database Skills" />
-
-<br /><br />
-
-**Languages & Tools**
-<br />
-<img src="https://skillicons.dev/icons?i=c,java,git,github,vscode,figma" alt="Languages and Tools" />
-
+  <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,figma,tailwind,git" alt="Languages and Tools" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=nodejs,javascript,firebase,mongodb,c,java,nextjs,mysql" alt="Languages and Tools" />
 </div>
 
 ---
@@ -53,11 +39,10 @@ Hi, I'm **Manoj Belbase** — a web developer focused on building clean, respons
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manojbelbase&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=manojbelbase&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojbelbase&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
 </div>
 
-<br />
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/manojbelbase/manojbelbase/output/snake.svg" alt="Contribution Snake Animation" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manojbelbase&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </div>
