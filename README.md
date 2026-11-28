@@ -20,10 +20,11 @@
 
 ### 👋 About Me
 
-Hi, I'm **Manoj Belbase** — a web developer focused on building clean, responsive interfaces with **React** and **Next.js**, currently expanding into **Backend development**.
+I'm a web developer passionate about crafting fast, accessible, and responsive web applications with **React**, **Next.js**, and **Tailwind CSS**. Right now, I'm leveling up on the backend with **Node.js**, **MongoDB**, and **MySQL** to build end-to-end full-stack products.
 
-- 🌱 Currently learning **Backend** (Node.js, databases, and APIs)
-- 💬 Ask me about **React.js** and **Next.js**
+- 🔭 Exploring **Backend Architecture**, REST APIs, and database design
+- 💬 Happy to chat about **React.js**, **Next.js**, and modern frontend workflows
+- 🤝 Open to collaborating on interesting web projects and open-source ideas
 
 ---
 
