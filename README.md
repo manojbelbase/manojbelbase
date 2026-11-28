@@ -1,6 +1,5 @@
 <div align="center">
   <h1>Namaste 🙏, I'm Manoj Belbase</h1>
-  <p><strong>Frontend &amp; Aspiring Full-Stack Developer</strong> • React &amp; Next.js</p>
 </div>
 
 <p align="center">
@@ -28,23 +27,25 @@ I'm a web developer passionate about crafting fast, accessible, and responsive w
 
 ---
 
-### 🛠️ Languages & Tools
+### ⚡ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,figma,tailwind,git" alt="Languages and Tools" />
+  <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,figma,tailwind,git" alt="Tech Stack" />
   <br />
-  <img src="https://skillicons.dev/icons?i=nodejs,javascript,firebase,mongodb,c,java,nextjs,mysql" alt="Languages and Tools" />
+  <img src="https://skillicons.dev/icons?i=nodejs,javascript,firebase,mongodb,c,java,nextjs,mysql" alt="Tech Stack" />
 </div>
 
 ---
 
-### 📊 GitHub Stats
+### 📈 GitHub Activity & Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manojbelbase&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojbelbase&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=manojbelbase&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=10" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojbelbase&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="165" alt="Top Languages" />
 </div>
 
+<br />
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manojbelbase&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manojbelbase&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak Stats" />
 </div>
